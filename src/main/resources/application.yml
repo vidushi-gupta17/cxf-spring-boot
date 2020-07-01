@@ -1,0 +1,3 @@
+cxf.path: /demo
+cxf.jaxrs.classes-scan: true
+cxf.jaxrs.classes-scan-packages: com.example.demo, org.codehaus.jackson.jaxrs
